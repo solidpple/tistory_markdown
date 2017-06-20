@@ -1,6 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    'use strict';
-    console.log('Tistory Markdown Plugin by makerj(ohenwkgdj@gmail.com)');
+    'use strict'; 
     var CONTAINER_SELECTOR = "";
     var CONTENTS_SELECTOR = "";
 
